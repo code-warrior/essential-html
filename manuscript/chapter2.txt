@@ -1,0 +1,4 @@
+# Chapter 2
+It was a **bold** and *italic* night!
+
+Suddently, a shot rang out!
