@@ -1,8 +1,9 @@
 # Chapter 1
 Hello, world!
 
-~~~ c
+~~~
 int main (int argc, char **argv) {
    return 0;
 }
 ~~~
+{: .language-c}
