@@ -1,2 +1,4 @@
+{:: encoding="UTF-8" /}
+
 # Preface
 After fourteen years of teaching, I decided to compile the best in-class examples that I have shared with my students into one compendium that all learners of web development/design can use in their course of study. Of the myriad examples I have created over the years, I chose those examples that generated the most positive reaction from my students. “Aha” moments, if you will.
