@@ -2,3 +2,5 @@
 
 # Preface
 After fourteen years of teaching, I decided to compile the best in-class examples that I have shared with my students into one compendium that all learners of web development/design can use in their course of study. Of the myriad examples I have created over the years, I chose those examples that generated the most positive reaction from my students. “Aha” moments, if you will.
+
+Many — but not all—the tags in the HTML language are explained in this book. I discuss those used most often in web sites. With an understanding of the essential HTML tags, learning any further tags will be simple.
